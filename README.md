@@ -1,1 +1,1 @@
-# How cloud analytics?
+Cloud analytics
